@@ -94,7 +94,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 <details markdown="block">
   <summary> Show Student Solutions </summary>
 
-* Add your solution below this line!
+* [Elias Jabb's Solution (Easy)] (https://github.com/jabb111/google-homepage) - [View in Browser](https://jabb111.github.io/google-homepage/)
 * [Jo's Solution (Easy)](https://github.com/MJae/OdinPrj/tree/master/google_homepage) - [View in Browser](https://mjae.github.io/OdinPrj/google_homepage/index.html)
 * [CLOEI's Solution (Easy)](https://github.com/CLOEI/google-homepage) - [View in Browser](https://cloei.github.io/google-homepage/)
 * [Hiro's Solution (Easy)](https://github.com/hrmtk/google-homepage) - [View in Browser](https://hrmtk.github.io/google-homepage/)
@@ -4078,8 +4078,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Christopher's Solution (Easy)](https://github.com/christopheralagna/google-homepage) - [View in Browser](https://christopheralagna.github.io/google-homepage/)
 * [Aamnayy6's Solution (Easy)](https://github.com/Aamnayy6/google-homepage) - [View in Browser](https://aamnayy6.github.io/google-homepage/)
 * [Aashna4's solution (Easy)](https://github.com/Aashna4/google-homepage) - [View in Browser](https://aashna4.github.io/google-homepage/)
-* [SoyNucleo's solution (Easy)](https://github.com/SoyNucleo/google-homepage) - [View in Browser](https://soynucleo.github.io/google-homepage/)
-* [ayeshaqb's Solution (Easy)](https://github.com/ayeshaqb/google-homepage) - [View in Browser](https://ayeshaqb.github.io/google-homepage/)
+* [ayeshaqb's Solution (Easy)](https://ayeshaqb.github.io/google-homepage/)
 </details>
 
 
